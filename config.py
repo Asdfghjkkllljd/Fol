@@ -1,5 +1,5 @@
 CHANNEL_ID = -1002220727686 # Айди канала
-INVOICE_LINK ="  t.me/send?start=IVa6rll05KWP #  Линк на инвойс
+INVOICE_LINK = "t.me/send?start=IVa6rll05KWP #  Линк на инвойс
 RULES_LINK = "https://t.me/hammerbetw/9488"  #  Линк на правила
 NEWS_LINK = "https://t.me/hammer_nuws"  # https://telegra.ph/Polzavatelskoe-soglashenie-hammerbetcasino-08-31 Линк польз. соглашения
 SUPPORT_LINK = "https://t.me/mvd_want_me"  #  Линк саппорта
@@ -11,7 +11,7 @@ SCAM_SUM_WHEEL = 10
 SCAM_WHEEL = 0
 ADMIN_ID = 7292500266 # Айди админа
 ADMIN_SD = 7292500266
-NEWS_ID =  -1002181733344 # Айди канала новостей
+NEWS_ID = -1002181733344 # Айди канала новостей
 VIPLAT_ID = -1002220727686
 min_vivod = 1.1
 xamount_action = False
